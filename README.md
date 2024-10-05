@@ -23,3 +23,5 @@ Production by: Alan Lucas de Souza & Vinícius Amaral Costa
 </p>
 
 # Licence
+
+Este projeto é licenciado sob a Licença MIT.
