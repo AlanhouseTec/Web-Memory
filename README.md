@@ -2,11 +2,13 @@
 
 Production by: Alan Lucas de Souza & Vinícius Amaral Costa 
 
-<h2>Sobre o Jogo<h2>
-<p>
-  O projeto desenvolvido é um jogo da memória com o tema Pokemon, o jogador irá selecionar o modo fácil ou dífcil e irá aproveitar o jogo.
-</p>
-<h2>Regras Do Jogo</h2>
+# Sobre o Jogo
+  
+  <p>
+    O projeto desenvolvido é um jogo da memória com o tema Pokemon, o jogador irá selecionar o modo fácil ou dífcil e irá aproveitar o jogo.
+  </p>
+  
+# Regras Do Jogo
 <p>
   1-O jogo se baseia em fazer o máximo de pares com as cartas antes do tempo de 1 minuto acabar. No modo fácil há (4x4)16 cartas enquanto no modo díficil possui (4x6) 24 cartas.
 </p>
@@ -19,3 +21,5 @@ Production by: Alan Lucas de Souza & Vinícius Amaral Costa
 <p>
   4-Quando achar todos os pares ou acabar o tempo, o jogador será encaminhado para tela que mostra o ranking das maiores pontuações, será mostrado os pontos que foram feitos na rodada, caso o jogador esteja jogando novamente com o mesmo nome, o ranking será atualido apenas se o jogador fazer uma potuação maior do que a presente no ranking. Nesta tela o jogadpr pode resetar o ranking ou pode optar por jogar novamente.
 </p>
+
+# Licence
