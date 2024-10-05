@@ -22,6 +22,13 @@ Production by: Alan Lucas de Souza & Vinícius Amaral Costa
   4-Quando achar todos os pares ou acabar o tempo, o jogador será encaminhado para tela que mostra o ranking das maiores pontuações, será mostrado os pontos que foram feitos na rodada, caso o jogador esteja jogando novamente com o mesmo nome, o ranking será atualido apenas se o jogador fazer uma potuação maior do que a presente no ranking. Nesta tela o jogadpr pode resetar o ranking ou pode optar por jogar novamente.
 </p>
 
+# Para jogar ou Replicar  esse projeto
+
+  para jogar o jogo, o mesmo se encontra no Link (https://web-memory.vercel.app/)
+
+
+  para replicar o projeto basta dar fazer o download do arquivo zip do repositório pelo link (https://github.com/AlanhouseTec/Web-Memory/archive/refs/heads/main.zip).
+  
 # Licence
 
-Este projeto é licenciado sob a Licença MIT.
+Licença MIT.
