@@ -29,6 +29,7 @@ O projeto desenvolvido é um jogo da memória com o tema Pokemon, o jogador irá
   ## Referências 
   
 Site Ofcial JAVASCRIPT(https://javascript.info/)
+
 Play List de Gustavo Guanabara(https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1)
   
 ## Licence
