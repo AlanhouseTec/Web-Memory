@@ -3,8 +3,8 @@
 Production by: Alan Lucas de Souza & Vinícius Amaral Costa 
 
 ## Sobre o Jogo
-  
-    O projeto desenvolvido é um jogo da memória com o tema Pokemon, o jogador irá selecionar o modo fácil ou dífcil e irá aproveitar o jogo.
+
+O projeto desenvolvido é um jogo da memória com o tema Pokemon, o jogador irá selecionar o modo fácil ou dífcil e irá aproveitar o jogo.
 
   
 ## Regras Do Jogo
